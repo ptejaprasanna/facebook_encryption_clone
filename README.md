@@ -1,4 +1,9 @@
-First, run: 
+Download the following python packages using pip,
+pynacl
+pycryptodomex
+
+
+Run: 
 
 python server.py
 
