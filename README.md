@@ -1,6 +1,6 @@
-Download the following python packages using pip,
-pynacl
-pycryptodomex
+Download the following packages,
+pip install pynacl
+pip install pycryptodomex
 
 
 Run: 
